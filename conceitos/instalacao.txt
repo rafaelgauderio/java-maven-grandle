@@ -1,0 +1,63 @@
+-> Instalação no Ubuntu
+
+# sudo add-apt-repository ppa:linuxuprising/java
+# sudo apt update
+# sudo apt-get install oracle-java10-installer
+# ll /usr/lib/jvm
+# java -version
+
+# export JAVA_HOME="/usr/lib/jvm/java-10-oracle"
+# export PATH=$JAVA_HOME/bin:$PATH
+
+-> Ferramentas de build
+	-> GRADLE
+		-> https://grandle.org
+		-> Android Studio , usava linguagem Groovy
+		-> Muita usado ainda o Mavem = Apache Mavem Project
+		-> baixar mavem, grandle intelliJ IDE
+
+		# mkdir /opt/gradle
+		# unzip -d /opt/gradle grade-4.7-bin.zip
+		# ls /opt/gradle/grade-4.7
+		# export PATH=$PATH:/opt/gradle/gradle-4.7/bin
+		# sudo apt purge gradle // remover versões antigas
+		# gradle -v
+
+	-> MAVEM
+		-> https://mavem.apache.org
+		-> Legados do ANT, baseado em XML
+
+		# mkdir /aopt/maven
+		# unzip -d /opt/maven apache-maven-3.5.3-bin.zip
+		# ls /opt/maven/apache-mavem-3.5.3
+		# sudo apt purge maven
+		# export PATH=$PATH:/opt/mavem/apache-maven-3.5.3/bin
+		# mvn -v
+
+	-> WRAPPERS
+		-> Vem para resolver o problema de cada desevolvedor usar uma versão diferente 
+		# grandle wrapper
+		# ./grandew -v
+
+		# mvn -N io.takari:maven:wrapper
+		# ./mvnw -v
+
+	-> Instalar o IntelliJ
+		-> https://www.jetbrains.com/idea/
+		# sudo tar -xzf ideaIC-2018.1.4.tar.gz
+		# cd idea-IC-181.5087.20/bin/
+		# ./idea.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
