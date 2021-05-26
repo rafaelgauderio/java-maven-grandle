@@ -1,0 +1,58 @@
+-> JAVA
+	-> Criada em 1995 pela Sun Microsystems por James Gosling
+	-> Foi adquirida pela Oracle
+	-> Não é compilada para código nativo, compilada para BYTECODE que interpretado por uma máquina virtual
+
+-> Compilador
+	-> Programa que a partir de um código fonte criar um programa semanticamente equivalente, porém escrito 
+			em CÓDIGO OBJETO. Um compilador traduz um programa de uma linguagem textual para uma linguagem de máquina,
+			específica para um sistema operacional e para um processador.
+	-> JAVAC é o compilador do java.
+	-> Usado principalemnte para programas que traduzem o código fonte de uma linguagem de programação de alto nível
+			para uma de baixo nível com Assembly.
+
+-> Bytecode
+	-> É o código originado da compilação de programas em java.
+	-> É o programa interpretado e executado pela Máquina Virtual JVM.
+
+-> JVM
+	-> Máquina virtual é um software que simula uma máquina física. Uma plataforma com memória, processador e outros
+			recursos 100% virtuais, sem dependência do hardware.
+	-> JVM é uma máquina virtual que executa programas em JAVA, executando os bytecodes em linguagem de máquina
+			para cada sistema operacional.
+	-> Em linguagens compiladas diretamente para um SO específico, esse programa não vai executar em outro SO. No java,
+			compilamos para a JVM, o bytecode será executado pela máquina virtual e não diretamente pela SO, assim, o software desenvolvido em JAva possui portabilidade para qualquer SO. Porém cada JVM deve ser construída
+			peara um SO específico.
+
+-> JRE
+	-> Java Runtime Environment, ambiente de Executação do Java
+	-> JER = JVM + bibliotecas + APIs + componentes
+	-> # sudo apt-get install openjdk-8-jre
+	-> https://openjdk.java.net/install/
+
+-> JDK
+	-> Java Development Kit. 
+	-> Conjunto de utilitários em java que permite criar software para a plataforma java
+	-> JDK = compilador + bibliotecas da lingaguem + ferrametas + JRE
+
+-> Java SE
+	-> Java Standard Edition (SE) é a distribuição mínima da plataforma de desenvolvimento de app em java
+	-> OpenJDK é a implementação de referência opensource do Java.
+
+-> Java EE
+	-> Java Enterprise Edition é uma extensão da Java SE que possuio suporte para desenvolvimento em 
+			ambiente corporativos
+	-> JBoss (RedHat), Weblogic (Oracle), WebSphere (IBM) e Glassfish (OpenSource)
+
+
+-> Jakarta EE
+	-> Oracle cedeu o código, implementações do Java EE para a Eclipse Foundation que criou o 
+			nome Jakarta EE.
+
+-> Compilando código em java
+	# touch Arquivo.java
+			-> dentro desse arquivo criar o código java com o public static void main(String [] args)
+	# javac Arquivo.java
+			-> vai gerar o arquivo .class
+	# java Arquivo
+
