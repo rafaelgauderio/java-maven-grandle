@@ -1,4 +1,4 @@
-package classes.usuario;
+package classes;
 
 public class AplicacaoSuperUsuario {
     public static void main(String [] args) {

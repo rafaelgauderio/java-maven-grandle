@@ -36,8 +36,11 @@ public class Primitivos {
         boolean boolean1 = true;
         boolean boolean2 = false;
 
-        // void não é um tipo de variável é uma palavra reservada
-        // Posso declarar, mas se não inicializar a variável não consigo usar ela, dar um print por exemplo
+        System.out.println("void não é um tipo de variável é uma palavra reservada.");
+        System.out.println("Posso declarar, mas se não inicializar a variável não consigo usar ela," +
+                " dar um print por exemplo.\n\n");
+
+
 
     }
 }
