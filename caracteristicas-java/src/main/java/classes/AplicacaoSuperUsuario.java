@@ -2,7 +2,7 @@ package classes;
 
 public class AplicacaoSuperUsuario {
 
-    public static void main(String [] args) {
+    public static void main(AplicacaoString[] args) {
 
         final var superUsuario = new SuperUsuario();
 

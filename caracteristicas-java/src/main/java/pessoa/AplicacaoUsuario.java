@@ -16,7 +16,5 @@ public class AplicacaoUsuario {
 
         System.out.println(deluca.toString());
 
-
-
         }
 }

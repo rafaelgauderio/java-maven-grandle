@@ -1,5 +1,7 @@
 pessoa/PessoaFisica.java
  pessoa.PessoaFisica
+classes/AplicacaoString.java
+ classes.AplicacaoString
 modificadores/GamerHerdado.java
  modificadores.GamerHerdado
 inferfaces/Veiculo.java
@@ -8,6 +10,8 @@ pessoa/Pessoa.java
  pessoa.Pessoa
 enumerados/Status.java
  enumerados.Status
+classes/AplicacaoStringBuider.java
+ classes.AplicacaoStringBuider
 classes/SuperUsuario.java
  classes.SuperUsuario
 modificadores/AplicacaoGamer.java
@@ -64,9 +68,9 @@ tipos/Primitivos.java
  tipos.Primitivos
 pessoa/AplicacaoPessoaFisica.java
  pessoa.AplicacaoPessoaFisica
-inferfaces/Fusca.java
- inferfaces.Fusca
-tipos/NaoPrimitivos.java
- tipos.NaoPrimitivos
 enumerados/AplicacaoEnums.java
  enumerados.AplicacaoEnums
+tipos/NaoPrimitivos.java
+ tipos.NaoPrimitivos
+inferfaces/Fusca.java
+ inferfaces.Fusca
