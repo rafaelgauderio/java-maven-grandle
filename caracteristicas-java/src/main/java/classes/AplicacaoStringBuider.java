@@ -16,7 +16,5 @@ public class AplicacaoStringBuider {
         System.out.println(insert);
 
 
-
-
     }
 }
