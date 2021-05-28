@@ -21,6 +21,10 @@ public class AplicacaoEnums {
             System.out.println("Tipos de veículos que enumerados:" + tipo);
         }
 
+        System.out.println(Status.OPEN.getCod());
+        System.out.println(Status.OPEN.getTexto());
+        System.out.println(Status.CLOSE.getTexto());
+
 
 
 
