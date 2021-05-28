@@ -14,14 +14,24 @@ classes/Aplicacao.java
  classes.Aplicacao
 cliente/Cliente.java
  cliente.Cliente
-tipos/TipagemForte.java
- tipos.TipagemForte
-modificadores/ModificadosDeAcesso.java
- modificadores.ModificadosDeAcesso
-tipos/Wrappers.java
- tipos.Wrappers
 classes/AplicacaoSuperUsuario.java
  classes.AplicacaoSuperUsuario
+modificadores/FormaGeometrica.java
+ modificadores.FormaGeometrica
+tipos/Wrappers.java
+ tipos.Wrappers
+modificadores/Cachorro.java
+ modificadores.Cachorro
+modificadores/Quadrado.java
+ modificadores.Quadrado
+modificadores/AplicacaoCachorro.java
+ modificadores.AplicacaoCachorro
+modificadores/AplicacaoQuadrado.java
+ modificadores.AplicacaoQuadrado
+tipos/TipagemForte.java
+ tipos.TipagemForte
+tipos/TipagemEstatica.java
+ tipos.TipagemEstatica
 tipos/Primitivos.java
  tipos.Primitivos
 pessoa/AplicacaoPessoaFisica.java
@@ -30,17 +40,13 @@ pessoa/AplicacaoUsuario.java
  pessoa.AplicacaoUsuario
 tipos/NaoPrimitivos.java
  tipos.NaoPrimitivos
-tipos/TipagemEstatica.java
- tipos.TipagemEstatica
-modificadores/FormaGeometrica.java
- modificadores.FormaGeometrica
-modificadores/Quadrado.java
- modificadores.Quadrado
-modificadores/AplicacaoQuadrado.java
- modificadores.AplicacaoQuadrado
-modificadores/Static.java
- modificadores.Static
-modificadores/Cachorro.java
- modificadores.Cachorro
-modificadores/AplicacaoCachorro.java
- modificadores.AplicacaoCachorro
+modificadores/ModificadosDeAcesso.java
+ modificadores.ModificadosDeAcesso
+modificadores/GamerHerdado.java
+ modificadores.GamerHerdado
+modificadores/HardcoreGamer.java
+ modificadores.HardcoreGamer
+modificadores/Gamer.java
+ modificadores.Gamer
+modificadores/AplicacaoGamer.java
+ modificadores.AplicacaoGamer
