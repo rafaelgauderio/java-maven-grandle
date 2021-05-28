@@ -1,6 +1,7 @@
 package classes;
 
 public class AplicacaoSuperUsuario {
+
     public static void main(String [] args) {
 
         final var superUsuario = new SuperUsuario();
@@ -13,10 +14,8 @@ public class AplicacaoSuperUsuario {
 
         //setar a variavél root
         String root = superUsuario.nome.toUpperCase();
+        System.out.println(root);
 
-
-
-
-
-    }
+ }
 }
+

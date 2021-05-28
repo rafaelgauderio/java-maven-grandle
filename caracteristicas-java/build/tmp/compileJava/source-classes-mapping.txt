@@ -1,34 +1,46 @@
 pessoa/PessoaFisica.java
  pessoa.PessoaFisica
-tipos/Primitivos.java
- tipos.Primitivos
-tipos/TipagemEstatica.java
- tipos.TipagemEstatica
+cliente/AplicacaoCliente.java
+ cliente.AplicacaoCliente
 pessoa/Pessoa.java
  pessoa.Pessoa
 tipos/Unboxing.java
  tipos.Unboxing
-tipos/TipoInferido.java
- tipos.TipoInferido
-tipos/NaoPrimitivos.java
- tipos.NaoPrimitivos
-cliente/Cliente.java
- cliente.Cliente
-tipos/Wrappers.java
- tipos.Wrappers
-tipos/TipagemForte.java
- tipos.TipagemForte
-pessoa/AplicacaoPessoaFisica.java
- pessoa.AplicacaoPessoaFisica
-classes/Aplicacao.java
- classes.Aplicacao
-cliente/AplicacaoCliente.java
- cliente.AplicacaoCliente
-classes/AplicacaoSuperUsuario.java
- classes.AplicacaoSuperUsuario
-modificadores/ModificadosDeAcesso.java
- modificadores.ModificadosDeAcesso
-pessoa/AplicacaoUsuario.java
- pessoa.AplicacaoUsuario
 classes/SuperUsuario.java
  classes.SuperUsuario
+tipos/TipoInferido.java
+ tipos.TipoInferido
+classes/Aplicacao.java
+ classes.Aplicacao
+cliente/Cliente.java
+ cliente.Cliente
+tipos/TipagemForte.java
+ tipos.TipagemForte
+modificadores/ModificadosDeAcesso.java
+ modificadores.ModificadosDeAcesso
+tipos/Wrappers.java
+ tipos.Wrappers
+classes/AplicacaoSuperUsuario.java
+ classes.AplicacaoSuperUsuario
+tipos/Primitivos.java
+ tipos.Primitivos
+pessoa/AplicacaoPessoaFisica.java
+ pessoa.AplicacaoPessoaFisica
+pessoa/AplicacaoUsuario.java
+ pessoa.AplicacaoUsuario
+tipos/NaoPrimitivos.java
+ tipos.NaoPrimitivos
+tipos/TipagemEstatica.java
+ tipos.TipagemEstatica
+modificadores/FormaGeometrica.java
+ modificadores.FormaGeometrica
+modificadores/Quadrado.java
+ modificadores.Quadrado
+modificadores/AplicacaoQuadrado.java
+ modificadores.AplicacaoQuadrado
+modificadores/Static.java
+ modificadores.Static
+modificadores/Cachorro.java
+ modificadores.Cachorro
+modificadores/AplicacaoCachorro.java
+ modificadores.AplicacaoCachorro
